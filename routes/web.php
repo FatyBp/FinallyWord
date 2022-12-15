@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\CartController;
 use App\Http\Controllers\Inicios;
 use App\Http\Controllers\Registros;
+use App\Http\Controllers\Resumenes;
 
 Route::get('/shop', [CartController::class, 'shop'])->name('shop');
 
