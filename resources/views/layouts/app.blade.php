@@ -12,7 +12,7 @@
 </head>
 <body>
 <div id="app">
-    @include('partials.navbar')
+    @include('sweetalert::alert')
     <main class="py-4">
         @yield('content')
     </main>
