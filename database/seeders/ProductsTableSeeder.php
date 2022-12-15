@@ -46,7 +46,7 @@ class ProductsTableSeeder extends Seeder
             'description' => 'Libro de terror',
             'category_id' => 2,
             'brand_id' => 1,
-            'image_path' => 'libro3.png'
+            'image_path' => 'libro3.jpg'
         ]);
 
         Product::create([
