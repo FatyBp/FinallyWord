@@ -22,10 +22,10 @@
                     <div class="col">
                         <p>
                             <b>Libro: </b> <i>{{$name}}</i> <br>
-                            <b>Autor: </b> Mario Vargas Llosa <br>
-                            <b>Título alternativo: </b> Libros, escenarios, pantallas y museos. Obra periodística 1 <br>
-                            <b>Editorial: </b> Alfaguara <br>
-                            <b>Temas: </b> Periodismo
+                            <b>Autor: </b> Pérez-Reverte, Arturo <br>
+                            {{-- <b>Título alternativo: </b> Libros, escenarios, pantallas y museos. Obra periodística 1 <br> --}}
+                            <b>Editorial: </b>  Editorial Alfaguara <br>
+                            <b>Temas: </b> Historias / Literatura / Literatura Española / Novela. Narrativa /
                         </p>
                     </div>
                     <div class="col-1"></div>
@@ -33,9 +33,10 @@
                 <div class="row mt-4">
                     <div class="col">
                         <p class="text-justify">
-                            <i>“No hay cultura genuina sin pluralidad de ideas y sin crítica”.</i> <br><br>
-                            Durante más de sesenta años, Mario Vargas Llosa ha trabajado intensamente como columnista. Para él, los textos publicados en los medios escritos de todo el mundo son una especie de autobiografía intelectual, literaria y política que ha ido elevando al ritmo de la actualidad de cada momento. Con este volumen dedicado a la cultura, Alfaguara inicia la publicación de la obra periodística del premio Nobel peruano, y lo hace siguiendo una estructura temática, que permite al lector descubrir en profundidad el ideario del autor a lo largo del tiempo en cada uno. asuntos. <br><br>
-                            «Son las reflexiones maduradas a lo largo de una vida dedicada a la lectura de novelas, a la contemplación del arte, el teatro y el cine. No sólo el testigo entusiasta de intensas horas de placer o de felices digestiones después de haber leído o visto los frutos de la fantasía. Es también un acercamiento integral a la condición humana, su mundo subjetivo —sus valores, conflictos, deseos, anhelos e inquietudes— y la forma en que han dejado su huella en la historia. No sé si el futuro se puede leer en la palma de la mano, en los posos del café o en los arcanos del tarot. El presente, en cambio, y de eso no tengo ninguna duda, se intuye en el fuego de la imaginación. Y ni siquiera necesitas ser un mago o tener poderes para hacer eso. Basta —y este volumen lo demuestra— con ser un lector y espectador apasionado y crítico». <br><br>
+                            <b>Un hombre, tres mujeres y una revolución. Un viaje al corazón humano y a la aventura.</b> <br><br>
+                            Ésta es la historia de un hombre, tres mujeres, una revolución y un tesoro. La revolución fue la de México en tiempos de Emiliano Zapata y Francisco Villa. El tesoro fueron quince mil monedas de oro de a veinte pesos de las denominadas maximilianos, robadas en un banco de Ciudad Juárez el 8 de mayo de 1911. El hombre se llamaba Martín Garret Ortiz y era un joven ingeniero de minas español. Todo empezó para él ese mismo día, cuando desde su hotel oyó un primer disparo lejano. Salió a la calle para ver qué ocurría y a partir de ese momento su vida cambió para siempre... <br><br>
+                            Revolución es mucho más que una novela sobre los dramáticos acontecimientos que sacudieron la república mexicana en el primer tercio del siglo XX. Es un relato de iniciación y madurez a través del caos, la lucidez y la violencia: el asombroso descubrimiento de las reglas ocultas que determinan el amor, la lealtad, la muerte y la vida. <br><br>
+                            «Toda la vida escuché en mi casa la historia de aquel amigo de mi bisabuelo, ingeniero de minas, que trabajó en México en plena revolución. Ese recuerdo remoto me ha aproximado a mi propia relación con la aventura y me ha llevado a escribir esta historia. Es una novela de iniciación y aprendizaje y es, de algún modo, mi propia biografía de juventud. Es mi Flecha de oro ». <b>Arturo Pérez-Reverte</b>
                             <div class="text-muted">
                                 <a href="{{route('shop')}}" class="text-reset"> Consigue este libro para continuar leyendo...</a>
                             </div>

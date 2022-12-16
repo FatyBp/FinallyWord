@@ -22,10 +22,10 @@
                     <div class="col">
                         <p>
                             <b>Libro: </b> <i>{{$name}}</i> <br>
-                            <b>Autor: </b> Mario Vargas Llosa <br>
-                            <b>Título alternativo: </b> Libros, escenarios, pantallas y museos. Obra periodística 1 <br>
-                            <b>Editorial: </b> Alfaguara <br>
-                            <b>Temas: </b> Periodismo
+                            <b>Autor: </b> Gurnah, Abdulrazak <br>
+                            {{-- <b>Título alternativo: </b> Libros, escenarios, pantallas y museos. Obra periodística 1 <br> --}}
+                            <b>Editorial: </b> Salamandra <br>
+                            <b>Temas: </b> Literatura / Narrativa /
                         </p>
                     </div>
                     <div class="col-1"></div>
@@ -33,9 +33,30 @@
                 <div class="row mt-4">
                     <div class="col">
                         <p class="text-justify">
-                            <i>“No hay cultura genuina sin pluralidad de ideas y sin crítica”.</i> <br><br>
-                            Durante más de sesenta años, Mario Vargas Llosa ha trabajado intensamente como columnista. Para él, los textos publicados en los medios escritos de todo el mundo son una especie de autobiografía intelectual, literaria y política que ha ido elevando al ritmo de la actualidad de cada momento. Con este volumen dedicado a la cultura, Alfaguara inicia la publicación de la obra periodística del premio Nobel peruano, y lo hace siguiendo una estructura temática, que permite al lector descubrir en profundidad el ideario del autor a lo largo del tiempo en cada uno. asuntos. <br><br>
-                            «Son las reflexiones maduradas a lo largo de una vida dedicada a la lectura de novelas, a la contemplación del arte, el teatro y el cine. No sólo el testigo entusiasta de intensas horas de placer o de felices digestiones después de haber leído o visto los frutos de la fantasía. Es también un acercamiento integral a la condición humana, su mundo subjetivo —sus valores, conflictos, deseos, anhelos e inquietudes— y la forma en que han dejado su huella en la historia. No sé si el futuro se puede leer en la palma de la mano, en los posos del café o en los arcanos del tarot. El presente, en cambio, y de eso no tengo ninguna duda, se intuye en el fuego de la imaginación. Y ni siquiera necesitas ser un mago o tener poderes para hacer eso. Basta —y este volumen lo demuestra— con ser un lector y espectador apasionado y crítico». <br><br>
+                            <b>Una conmovedora historia de amor con la guerra y el colonialismo como telón de fondo.</b> <br><br>
+                            Cuando todavía era un niño, Ilyas les fue arrebatado a sus padres por las tropas coloniales alemanas; tras años de ausencia y de batalla contra su propio pueblo, regresa a la ciudad de su infancia, donde sus padres han desaparecido y su hermana Afiya ha sido dada en adopción. Otro joven regresa al mismo tiempo: a Hamza no lo robaron para que combatiera, sino que lo vendieron. Con tan sólo sus ropas a la espalda, se limita a buscar trabajo y seguridad... y el amor de la hermosa Afiya. <br><br>
+                            Apenas acaba de comenzar el siglo XX y alemanes, británicos, franceses y demás países se han repartido el continente africano. A medida que estos jóvenes supervivientes intentan rehacer sus vidas, la sombra de una nueva guerra en otro continente amenaza con llevárselos de nuevo. <br><br>
+                            La crítica ha dicho: <br>
+                            «Fascinante y desgarradora [...]. Una novela convincente, que abraza a todos aquellos destinados al olvido, y rechaza su anulación.»
+                            The Guardian <br>
+                            «Pocas veces en la vida se puede abrir un libro y descubrir que su lectura encierra las cualidades encantadoras de una relación amorosa... uno apenas se atreve a respirar mientras lo lee por miedo a romper el encanto.»
+                            The Times <br>
+                            «Una evocación poética y vívida sobre el continente africano y el inquietante poder de lo desconocido.»
+                            Independent on Sunday <br>
+                            «Un archivo resonante de una África desaparecida, que cobra vida de forma sorprendente. En él, un mundo perdido es recuperado de manera fascinante.»
+                            Sunday Times <br>
+                            «Un libro brillante y revelador de un escritor asombroso.»
+                            New Statesman <br>
+                            «Una novela vibrante y vívida que muestra a los seres humanos en toda su generosidad y codicia, mezquindad y nobleza, de modo que incluso los personajes menores parecen capaces de cargar con novelas enteras por sí mismos.»
+                            Herald <br>
+                            «Desde las primeras páginas de La vida, después, un libro de tranquila belleza y tragedia, está claro que uno está en manos de un maestro de la narración.»
+                            Financial Times <br>
+                            «Un tierno relato sobre lo extraordinario de las vidas ordinarias, La vida, después combina una narración fascinante con una escritura cuya exquisita precisión emocional confirma el lugar de Gurnah entre los destacados estilistas de la prosa inglesa moderna. Al igual que sus predecesoras, ésta es una novela que exige ser leída y releída, por su humor, su generosidad de espíritu y su clarividente visión de las infinitas contradicciones de la naturaleza humana.»
+                            Evening Standard <br>
+                            «Con una prosa limpia y mesurada, Gurnah inspecciona los actos individuales de violencia... y los actos inesperados de bondad. Conmovedor en su ordinariez, La vida, después es una convincente exploración de la necesidad de encontrar lugares de refugio.»
+                            Daily Telegraph <br>
+                            «Abdulrazak Gurnah es un maestro de su oficio ... Una novela intrincada y delicada, vitalmente necesaria.»
+                            New Internationalist <br><br>
                             <div class="text-muted">
                                 <a href="{{route('shop')}}" class="text-reset"> Consigue este libro para continuar leyendo...</a>
                             </div>
